@@ -1,0 +1,13 @@
+.list-group-item {
+  border: none;
+  border-bottom: 3px solid #111;
+
+  span {
+    width: 100%;
+  }
+
+  &__button {
+    position: absolute;
+    right: 20px;
+  }
+}
